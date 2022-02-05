@@ -1,4 +1,4 @@
-# Pizzeria
+# Billy's Pizzeria
 
 ## Intro
 A pizza shop site made using PHP, MYSQL, HTML, CSS and JavaScript.
