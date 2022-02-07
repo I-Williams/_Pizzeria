@@ -12,8 +12,6 @@ https://billys-pizzeria.herokuapp.com/
 ## Features
 
 ### Cart
-![billys-cart-screenshot](https://user-images.githubusercontent.com/57849511/152859298-d694ed52-b8ec-4cfe-8f39-dd9276326a6b.png)
-
 ![screenshot-billys-pizzeria herokuapp com-2022 02 06-14_34_56](https://user-images.githubusercontent.com/57849511/152859118-b6d51a3e-b5fe-43e3-b729-3e6a8933aea6.png)
 
 ### Checkout
