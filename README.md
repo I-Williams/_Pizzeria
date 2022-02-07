@@ -16,6 +16,9 @@ https://billys-pizzeria.herokuapp.com/
 
 ![screenshot-billys-pizzeria herokuapp com-2022 02 06-14_34_56](https://user-images.githubusercontent.com/57849511/152859118-b6d51a3e-b5fe-43e3-b729-3e6a8933aea6.png)
 
+## Checkout
+![billy checkout](https://user-images.githubusercontent.com/57849511/152860039-113e74a6-22ce-4449-a143-5c7126c2d20e.png)
+
 ### Staff Login
 ![screenshot-billys-pizzeria herokuapp com-2022 02 06-14_36_15](https://user-images.githubusercontent.com/57849511/152859218-a4200763-62a9-4e47-9cd1-4a3a635e2abe.png)
 
