@@ -21,4 +21,4 @@ https://billys-pizzeria.herokuapp.com/
 ![screenshot-billys-pizzeria herokuapp com-2022 02 06-14_36_15](https://user-images.githubusercontent.com/57849511/152859218-a4200763-62a9-4e47-9cd1-4a3a635e2abe.png)
 
 ## Author
-I Williams
+Iyanu Williams
