@@ -1,7 +1,7 @@
 # Billy's Pizzeria
 
 ## Intro
-A pizza shop site made using PHP, MYSQL, HTML, CSS and JavaScript.
+A pizza shop site made using PHP, SQL, HTML, CSS and JavaScript.
 
 ## URL
 https://billys-pizzeria.herokuapp.com/
